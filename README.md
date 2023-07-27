@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nimra Mehmood, a passionate Computer Science student in Lahore, Pakistan. I'm currently pursuing my degree from LCWU.<br><br>SKILLS:<br>Programming Languages: C, C++, HTML, CSS, JavaScript.<br><br>As an aspiring programmer, I'm driver by the desire to become a skilled coder and make a positive impact through technology.<br>Let's connect and collaborate to create a future together.
+I'm Nimra Mehmood, a passionate Computer Science student in Lahore, Pakistan. I'm currently pursuing my degree from LCWU.<br><br>SKILLS:<br>Programming Languages: C, C++, HTML, CSS, JavaScript.<br><br>As an aspiring programmer, I'm driven by the desire to become a skilled coder and make a positive impact through technology.<br>Let's connect and collaborate to create a future together.
 
 
 ## 🌐 Socials:
